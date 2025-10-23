@@ -1,0 +1,13 @@
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/bin/Debug/net9.0/NotificationsService.Src.Modules.Notifications.deps.json
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/bin/Debug/net9.0/NotificationsService.Src.Modules.Notifications.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/bin/Debug/net9.0/NotificationsService.Src.Modules.Notifications.pdb
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/bin/Debug/net9.0/NotificationsService.Src.Shared.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/bin/Debug/net9.0/NotificationsService.Src.Shared.pdb
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/NotificationsService.Src.Modules.Notifications.csproj.AssemblyReference.cache
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/NotificationsService.Src.Modules.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/NotificationsService.Src.Modules.Notifications.csproj.CoreCompileInputs.cache
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/Notifica.0C5CD8CA.Up2Date
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/NotificationsService.Src.Modules.Notifications.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/refint/NotificationsService.Src.Modules.Notifications.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/NotificationsService.Src.Modules.Notifications.pdb
+/Users/mohammed/Desktop/NotificationsService/Src/Modules/Notifications/obj/Debug/net9.0/ref/NotificationsService.Src.Modules.Notifications.dll

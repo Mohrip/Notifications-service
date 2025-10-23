@@ -1,0 +1,9 @@
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/bin/Debug/net9.0/NotificationsService.Src.Shared.deps.json
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/bin/Debug/net9.0/NotificationsService.Src.Shared.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/bin/Debug/net9.0/NotificationsService.Src.Shared.pdb
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/obj/Debug/net9.0/NotificationsService.Src.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/obj/Debug/net9.0/NotificationsService.Src.Shared.csproj.CoreCompileInputs.cache
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/obj/Debug/net9.0/NotificationsService.Src.Shared.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/obj/Debug/net9.0/refint/NotificationsService.Src.Shared.dll
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/obj/Debug/net9.0/NotificationsService.Src.Shared.pdb
+/Users/mohammed/Desktop/NotificationsService/Src/Shared/obj/Debug/net9.0/ref/NotificationsService.Src.Shared.dll
